@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JimmyMeriläinenLabb4VG</string>
+    <string name="spela">Spela</string>
+    <string name="hangman" translatable="false">Hangman</string>
+    <string name="om">Om</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="made_by_jimmy">Tillverkad av Jimmy</string>
+    <string name="gissa">Gissa</string>
+    <string name="tillbaka_till_huvudmeny">Tillbaka till huvudmeny</string>
+    <string name="f_rs_k_kvar">försök kvar</string>
+    <string name="bokst_ver_du_anv_nt">Bokstäver du använt:</string>
+    <string name="mata_in_en_bokstav">Mata in en bokstav</string>
+    <string name="huvud_meny">Huvudmeny</string>
+    <string name="resultat">Resultat</string>
+    <string name="lose">Du förlorade!</string>
+    <string name="win">Du Vann!</string>
+    <string name="word">Ordet var: </string>
+    <string name="tries">Antal försök kvar: </string>
+    <string name="input_letter">Mata in en bokstav</string>
+    <string name="already_used">Du har redan använt: </string>
+</resources>

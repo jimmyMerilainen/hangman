@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JimmyMeriläinenLabb4VG</string>
+    <string name="spela">Play</string>
+    <string name="om">About</string>
+    <string name="made_by_jimmy">Made by Jimmy</string>
+    <string name="gissa">Guess</string>
+    <string name="tillbaka_till_huvudmeny">Back to main menu</string>
+    <string name="f_rs_k_kvar">Tries left</string>
+    <string name="bokst_ver_du_anv_nt">Letters you used:</string>
+    <string name="mata_in_en_bokstav">Input letter</string>
+    <string name="huvud_meny">Main meny</string>
+    <string name="resultat">Result</string>
+    <string name="lose">You lost!</string>
+    <string name="win">You won!</string>
+    <string name="word">The word was: </string>
+    <string name="tries">Number of attempts left: </string>
+    <string name="input_letter">Input letter</string>
+    <string name="already_used">You have already used: </string>
+</resources>
